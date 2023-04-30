@@ -12,6 +12,13 @@ yarn dev
 pnpm dev
 ```
 
+Second, intall dependencies and devdependencies
+```bash
+npm install
+# or
+yarn install
+```
+
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
 ## ESLINT
