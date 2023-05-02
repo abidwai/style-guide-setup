@@ -23,7 +23,7 @@ pnpm dev
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
-## ESLINT
+## ESLINT Setup
 
 For Javascript\
 [Possible logic errors in code](https://eslint.org/docs/latest/rules/#possible-problems)\
