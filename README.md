@@ -36,9 +36,6 @@ For ReactJS\
 For React hooks\
 [Hooks](https://www.npmjs.com/package/eslint-plugin-react-hooks)
 
-For NextJS\
-[NextJS](https://www.npmjs.com/package/@next/eslint-plugin-next)
-
 Default set of rules [.eslisntrc.json](https://github.com/abidwai/style-guide-demo/blob/main/.eslintrc.json)
 
 ```
